@@ -1,4 +1,4 @@
-package com.wallace.encrypt;
+package com.encrypt;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

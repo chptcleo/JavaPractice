@@ -1,4 +1,4 @@
-package com.wallace.pattern.facade.theater;
+package com.pattern.facade.theater;
 
 public class TheaterFacade {
 

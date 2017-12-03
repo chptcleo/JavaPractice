@@ -1,4 +1,4 @@
-package com.wallace.pattern.compound;
+package com.pattern.compound;
 
 public interface Quackable extends QuackObservable {
 

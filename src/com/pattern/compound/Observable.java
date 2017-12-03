@@ -1,4 +1,4 @@
-package com.wallace.pattern.compound;
+package com.pattern.compound;
 
 import java.util.ArrayList;
 import java.util.Iterator;

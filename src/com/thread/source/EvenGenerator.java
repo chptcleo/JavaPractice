@@ -1,4 +1,4 @@
-package com.wallace.thread.source;
+package com.thread.source;
 
 public class EvenGenerator extends IntGenerator {
 

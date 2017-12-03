@@ -1,4 +1,4 @@
-package com.wallace.wenum;
+package com.wenum;
 
 import java.util.Random;
 

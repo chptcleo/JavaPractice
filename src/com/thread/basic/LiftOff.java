@@ -1,4 +1,4 @@
-package com.wallace.thread.basic;
+package com.thread.basic;
 
 public class LiftOff implements Runnable {
 

@@ -1,4 +1,4 @@
-package com.wallace.pattern.state.gumballmachine;
+package com.pattern.state.gumballmachine;
 
 public class SoldOutState extends State {
 

@@ -1,4 +1,4 @@
-package com.wallace.annotation;
+package com.annotation;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

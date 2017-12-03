@@ -1,4 +1,4 @@
-package com.wallace.pattern.adapter.duck;
+package com.pattern.adapter.duck;
 
 public interface Turkey {
 

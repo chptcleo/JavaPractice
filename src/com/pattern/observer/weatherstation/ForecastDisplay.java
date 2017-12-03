@@ -1,4 +1,4 @@
-package com.wallace.pattern.observer.weatherstation;
+package com.pattern.observer.weatherstation;
 
 public class ForecastDisplay implements Observer, DisplayElement {
 

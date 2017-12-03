@@ -1,4 +1,4 @@
-package com.wallace.pattern.iterator.menu;
+package com.pattern.iterator.menu;
 
 public class DinnerMenu implements Menu {
 

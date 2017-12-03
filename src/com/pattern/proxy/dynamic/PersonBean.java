@@ -1,4 +1,4 @@
-package com.wallace.pattern.proxy.dynamic;
+package com.pattern.proxy.dynamic;
 
 public interface PersonBean {
 

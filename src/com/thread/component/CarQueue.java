@@ -1,4 +1,4 @@
-package com.wallace.thread.component;
+package com.thread.component;
 
 import java.util.concurrent.LinkedBlockingQueue;
 

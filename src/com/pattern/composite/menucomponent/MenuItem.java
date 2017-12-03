@@ -1,4 +1,4 @@
-package com.wallace.pattern.composite.menucomponent;
+package com.pattern.composite.menucomponent;
 
 public class MenuItem extends MenuComponent {
 	String name;

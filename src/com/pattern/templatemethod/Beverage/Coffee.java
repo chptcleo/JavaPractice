@@ -1,4 +1,4 @@
-package com.wallace.pattern.templatemethod.Beverage;
+package com.pattern.templatemethod.Beverage;
 
 public class Coffee extends CaffeineBeverage {
 

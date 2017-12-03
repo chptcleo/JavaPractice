@@ -1,4 +1,4 @@
-package com.wallace.pattern.command.appliancecontrol;
+package com.pattern.command.appliancecontrol;
 
 public class StereoOffCmd implements Command {
 

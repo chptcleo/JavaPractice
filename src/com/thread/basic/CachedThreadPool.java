@@ -1,4 +1,4 @@
-package com.wallace.thread.basic;
+package com.thread.basic;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

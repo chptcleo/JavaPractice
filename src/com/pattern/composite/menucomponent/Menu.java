@@ -1,4 +1,4 @@
-package com.wallace.pattern.composite.menucomponent;
+package com.pattern.composite.menucomponent;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.wallace.thread.basic;
+package com.thread.basic;
 
 import java.util.ArrayList;
 import java.util.List;

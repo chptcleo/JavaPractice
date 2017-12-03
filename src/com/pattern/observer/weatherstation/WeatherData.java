@@ -1,4 +1,4 @@
-package com.wallace.pattern.observer.weatherstation;
+package com.pattern.observer.weatherstation;
 
 import java.util.ArrayList;
 import java.util.List;

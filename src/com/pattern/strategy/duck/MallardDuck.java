@@ -1,4 +1,4 @@
-package com.wallace.pattern.strategy.duck;
+package com.pattern.strategy.duck;
 
 public class MallardDuck extends Duck {
 

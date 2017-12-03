@@ -1,4 +1,4 @@
-package com.wallace.pattern.decorator.starbuzzcoffee;
+package com.pattern.decorator.starbuzzcoffee;
 
 public enum BeverageSize {
 

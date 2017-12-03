@@ -1,4 +1,4 @@
-package com.wallace.pattern.proxy.remote;
+package com.pattern.proxy.remote;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

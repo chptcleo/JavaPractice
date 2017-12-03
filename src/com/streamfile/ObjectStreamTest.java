@@ -1,4 +1,4 @@
-package com.wallace.streamfile;
+package com.streamfile;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

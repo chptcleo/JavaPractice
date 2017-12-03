@@ -1,3 +1,5 @@
+package com.distributed.server;
+
 
 public class Book extends Product {
 

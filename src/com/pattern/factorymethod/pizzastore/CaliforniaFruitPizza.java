@@ -1,4 +1,4 @@
-package com.wallace.pattern.factorymethod.pizzastore;
+package com.pattern.factorymethod.pizzastore;
 
 public class CaliforniaFruitPizza extends Pizza {
 

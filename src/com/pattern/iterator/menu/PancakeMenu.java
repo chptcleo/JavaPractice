@@ -1,4 +1,4 @@
-package com.wallace.pattern.iterator.menu;
+package com.pattern.iterator.menu;
 
 import java.util.ArrayList;
 import java.util.List;
