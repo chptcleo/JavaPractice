@@ -1,3 +1,5 @@
+package com.distributed.client;
+
 
 
 import java.rmi.Remote;

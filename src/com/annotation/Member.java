@@ -1,4 +1,4 @@
-package com.wallace.annotation;
+package com.annotation;
 
 @DBTable(name = "MEMBER")
 public class Member {

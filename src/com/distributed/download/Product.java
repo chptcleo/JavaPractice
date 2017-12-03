@@ -1,3 +1,5 @@
+package com.distributed.download;
+
 
 import java.io.Serializable;
 
