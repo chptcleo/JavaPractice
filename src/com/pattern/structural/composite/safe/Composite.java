@@ -1,4 +1,4 @@
-package com.structural.composite.safe;
+package com.pattern.structural.composite.safe;
 
 import java.util.Enumeration;
 import java.util.Vector;

@@ -1,4 +1,4 @@
-package com.structural.bridge;
+package com.pattern.structural.bridge;
 
 public class RefinedAbstractor extends Abstraction {
 

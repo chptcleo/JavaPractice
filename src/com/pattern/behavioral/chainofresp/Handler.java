@@ -1,4 +1,4 @@
-package com.behavioral.chainofresp;
+package com.pattern.behavioral.chainofresp;
 
 public abstract class Handler {
 

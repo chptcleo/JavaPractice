@@ -1,4 +1,4 @@
-package com.creational.factory;
+package com.pattern.creational.factory;
 
 public interface Creator {
 

@@ -1,4 +1,4 @@
-package com.behavioral.visitor;
+package com.pattern.behavioral.visitor;
 
 import java.util.Enumeration;
 import java.util.Vector;

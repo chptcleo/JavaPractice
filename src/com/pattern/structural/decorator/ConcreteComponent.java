@@ -1,4 +1,4 @@
-package com.structural.decorator;
+package com.pattern.structural.decorator;
 
 public class ConcreteComponent implements Component {
 

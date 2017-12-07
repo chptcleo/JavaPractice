@@ -1,4 +1,4 @@
-package com.behavioral.memento.complex;
+package com.pattern.behavioral.memento.complex;
 
 public class Client {
 

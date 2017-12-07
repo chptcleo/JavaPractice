@@ -1,4 +1,4 @@
-package com.structural.facade;
+package com.pattern.structural.facade;
 
 public class Client {
 

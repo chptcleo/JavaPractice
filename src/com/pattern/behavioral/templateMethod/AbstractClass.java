@@ -1,4 +1,4 @@
-package com.behavioral.templateMethod;
+package com.pattern.behavioral.templateMethod;
 
 public abstract class AbstractClass {
 

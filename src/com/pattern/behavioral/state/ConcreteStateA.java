@@ -1,4 +1,4 @@
-package com.behavioral.state;
+package com.pattern.behavioral.state;
 
 public class ConcreteStateA implements State {
 

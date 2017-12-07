@@ -1,4 +1,4 @@
-package com.behavioral.strategy;
+package com.pattern.behavioral.strategy;
 
 public class Client {
 	

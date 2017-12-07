@@ -1,4 +1,4 @@
-package com.creational.prototype;
+package com.pattern.creational.prototype;
 
 import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package com.behavioral.interpreter;
+package com.pattern.behavioral.interpreter;
 
 import java.util.HashMap;
 

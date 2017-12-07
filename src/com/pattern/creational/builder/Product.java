@@ -1,4 +1,4 @@
-package com.creational.builder;
+package com.pattern.creational.builder;
 
 public class Product {
 

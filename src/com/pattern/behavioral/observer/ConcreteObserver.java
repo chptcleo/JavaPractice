@@ -1,4 +1,4 @@
-package com.behavioral.observer;
+package com.pattern.behavioral.observer;
 
 public class ConcreteObserver implements Observer {
 

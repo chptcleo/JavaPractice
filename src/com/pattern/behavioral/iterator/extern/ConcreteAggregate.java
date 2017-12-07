@@ -1,4 +1,4 @@
-package com.behavioral.iterator.extern;
+package com.pattern.behavioral.iterator.extern;
 
 public class ConcreteAggregate implements Aggregate {
 

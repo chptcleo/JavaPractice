@@ -1,4 +1,4 @@
-package com.structural.proxy;
+package com.pattern.structural.proxy;
 
 public class RealSubject implements Subject {
 

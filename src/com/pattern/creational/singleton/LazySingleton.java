@@ -1,4 +1,4 @@
-package com.creational.singleton;
+package com.pattern.creational.singleton;
 
 public class LazySingleton {
 

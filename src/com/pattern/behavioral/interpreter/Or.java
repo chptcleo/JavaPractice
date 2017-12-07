@@ -1,4 +1,4 @@
-package com.behavioral.interpreter;
+package com.pattern.behavioral.interpreter;
 
 public class Or implements Expression {
 

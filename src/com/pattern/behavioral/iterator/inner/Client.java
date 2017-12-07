@@ -1,4 +1,4 @@
-package com.behavioral.iterator.inner;
+package com.pattern.behavioral.iterator.inner;
 
 public class Client {
 

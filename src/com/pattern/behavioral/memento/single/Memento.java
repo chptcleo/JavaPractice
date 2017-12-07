@@ -1,4 +1,4 @@
-package com.behavioral.memento.single;
+package com.pattern.behavioral.memento.single;
 
 public class Memento {
 

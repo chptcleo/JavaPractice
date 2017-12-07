@@ -1,4 +1,4 @@
-package com.behavioral.visitor;
+package com.pattern.behavioral.visitor;
 
 public class Client {
 

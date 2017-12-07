@@ -1,4 +1,4 @@
-package com.behavioral.mediator;
+package com.pattern.behavioral.mediator;
 
 public class ConcreteMediator extends Mediator {
 

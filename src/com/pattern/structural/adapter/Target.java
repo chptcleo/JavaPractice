@@ -1,4 +1,4 @@
-package com.structural.adapter;
+package com.pattern.structural.adapter;
 
 public interface Target {
 

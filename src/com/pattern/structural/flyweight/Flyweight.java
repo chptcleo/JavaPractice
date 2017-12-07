@@ -1,4 +1,4 @@
-package com.structural.flyweight;
+package com.pattern.structural.flyweight;
 
 public interface Flyweight {
 

@@ -1,4 +1,4 @@
-package com.structural.composite.safe;
+package com.pattern.structural.composite.safe;
 
 public class Leaf implements Component{
 

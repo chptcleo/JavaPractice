@@ -1,4 +1,4 @@
-package com.structural.composite.limpidity;
+package com.pattern.structural.composite.limpidity;
 
 import java.util.Enumeration;
 

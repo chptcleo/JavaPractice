@@ -1,4 +1,4 @@
-package com.behavioral.command;
+package com.pattern.behavioral.command;
 
 public class Receiver {
 

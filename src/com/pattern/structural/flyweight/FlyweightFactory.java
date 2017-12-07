@@ -1,4 +1,4 @@
-package com.structural.flyweight;
+package com.pattern.structural.flyweight;
 
 import java.util.HashMap;
 import java.util.Iterator;
