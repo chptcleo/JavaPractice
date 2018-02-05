@@ -15,6 +15,8 @@ public class Client {
 		aObject.addNode(new NodeB());
 		visitor = new VisitorA();
 		aObject.action(visitor);
+		visitor = new VisitorB();
+		aObject.action(visitor);
 	}
 
 }

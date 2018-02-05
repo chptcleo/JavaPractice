@@ -9,7 +9,12 @@ public class Client {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Strategy sa = new ConcreteStrategyA();
-		sa.operation();
+		Context context = new Context();
+		context.setStrategy(sa);
+		context.process();
+		Strategy sb = new ConcreteStrategyB();
+		context.setStrategy(sb);
+		context.process();
 	}
 
 }
