@@ -27,7 +27,7 @@ public class StringCounter {
 		// TODO Auto-generated method stub
 		StringCounter stringCounter = new StringCounter();
 		try {
-			int count = stringCounter.countWords("D://eclipse-workspace/JavaPractice/src/com/string/str_count", "abc");
+			int count = stringCounter.countWords("D://workspace/JavaPractice/src/com/string/str_count", "abc");
 			System.out.println(count);
 			System.out.println("xyz".charAt(2));
 		} catch (Exception e) {
