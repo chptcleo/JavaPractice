@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.algorithm.find;
 
 public class PrimeNumberChecker {
 	public static void main(String[] args) {
