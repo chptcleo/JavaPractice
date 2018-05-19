@@ -19,7 +19,7 @@ public class BinarySearch {
 		int size = arr.length;
 		int right = size - 1;
 		int mid;
-
+		
 		while (left < right) {
 			mid = left + (right - left) / 2;
 			if (number > arr[mid]) {
