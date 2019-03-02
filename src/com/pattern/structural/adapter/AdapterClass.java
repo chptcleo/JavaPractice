@@ -9,7 +9,7 @@ public class AdapterClass extends Adaptee implements Target{
 
 	public void opertation2() {
 		// TODO Auto-generated method stub
-		
+		super.operation2();
 	}
 	
 }

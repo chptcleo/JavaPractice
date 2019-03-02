@@ -15,7 +15,7 @@ public class AdapterObject implements Target{
 
 	public void opertation2() {
 		// TODO Auto-generated method stub
-		
+		this.adaptee.operation2();
 	}
 
 }

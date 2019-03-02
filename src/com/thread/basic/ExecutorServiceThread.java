@@ -24,18 +24,18 @@ public class ExecutorServiceThread {
 			fixedExecutorService.execute(new MyJob());
 		}
 		fixedExecutorService.shutdown();
-		for (int i = 0; i < 5; i++) {
-			cachedExecutorService.execute(new MyJob());
-		}
-		cachedExecutorService.shutdown();
-		for (int i = 0; i < 5; i++) {
-			scheduledExecutorService.schedule(new MyJob(), 3, TimeUnit.SECONDS);
-		}
-		scheduledExecutorService.shutdown();
-		for (int i = 0; i < 5; i++) {
-			singleExecutorService.execute(new MyJob());
-		}
-		singleExecutorService.shutdown();
+//		for (int i = 0; i < 5; i++) {
+//			cachedExecutorService.execute(new MyJob());
+//		}
+//		cachedExecutorService.shutdown();
+//		for (int i = 0; i < 5; i++) {
+//			scheduledExecutorService.schedule(new MyJob(), 3, TimeUnit.SECONDS);
+//		}
+//		scheduledExecutorService.shutdown();
+//		for (int i = 0; i < 5; i++) {
+//			singleExecutorService.execute(new MyJob());
+//		}
+//		singleExecutorService.shutdown();
 	}
 
 	private void execute() {
