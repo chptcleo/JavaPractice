@@ -13,6 +13,7 @@ public class Client {
 		handler2 = new ConcreteHandler();
 		handler1.setSuccessor(handler2);
 		handler1.handleRequest();
+		
 	}
 
 }
